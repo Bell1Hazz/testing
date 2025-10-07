@@ -6,6 +6,6 @@
     <title>fathir</title>
 </head>
 <body>
-    <h1>Hello dzaku!</h1>
+    <h1>Hello World!</h1>
 </body>
 </html>
